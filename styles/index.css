@@ -3,5 +3,21 @@
 @tailwind utilities;
 
 body {
-  @apply p-12 bg-volcano-10;
+  @apply bg-gray-4;
+}
+
+h1 {
+  @apply text-3xl text-gray-11;
+}
+
+h2, h3, h4 {
+  @apply text-2xl text-gray-11;
+}
+
+h5, h6 {
+  @apply text-xl text-gray-11;
+}
+
+p, span, text {
+  @apply text-gray-11;
 }
