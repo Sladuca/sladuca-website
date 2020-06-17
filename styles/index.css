@@ -22,6 +22,17 @@ p, span, text {
   @apply text-gray-11;
 }
 
+ul {
+  @apply py-4 list-disc list-inside;
+}
+
+a {
+  @apply text-blue-6;
+}
+
+li {
+  @apply py-2;
+}
 /* Position and sizing of burger button */
 .bm-burger-button {
   position: absolute;
