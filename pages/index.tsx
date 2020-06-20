@@ -17,7 +17,7 @@ export default function Home() {
                 Hi! My name is Sebastien.
               </p>
               <p>
-                I'm a computer engineering student, blockchain evangelist, armchair philosopher, and budding entrepreneur on a mission to build a future where everyone can make a living by being themseleves.
+                I'm a computer engineering student, blockchain evangelist, armchair philosopher, and budding entrepreneur trying to build a future where everyone can make a living by being themseleves.
               </p>
               <p>
                 I'm using this website primarily as a place for me to share what I'm doing, what I'm learning, and what I'm thinking about with anyone who wishes to read.

@@ -22,6 +22,10 @@ p, span, text {
   @apply text-gray-11;
 }
 
+em {
+  @apply italic
+}
+
 ul {
   @apply py-4 list-disc list-inside;
 }
