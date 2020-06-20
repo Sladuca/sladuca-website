@@ -47,45 +47,8 @@ export default function LearningLayerOne() {
               </p>
               <div className="py-8">
                 <h6>Raft - Non-Byzantine Distributed Consensus:</h6>
-                <ul>
-                  <li>highly concurrent Rust with Tokio</li>
-                  <li>gRPC with tonic and serde</li>
-                  <li>Logical time and Clocks</li>
-                  <li>Distributed Mutex</li>
-                  <li>2PC/2PL</li>
-                  <li>Paxos</li>
-                </ul>
                 <h6>PoW Bitcoin clone - Nakamoto Consensus:</h6>
-                <ul>
-                  <li>Byzantine Generals Problem</li>
-                  <li>ECDSA and Schnorr Signatures</li>
-                  <li>MPT / State Proofs</li>
-                  <li>Block reward mechanisms</li>
-                  <li>P2P Networking Concepts</li>
-                  <li>rust-libp2p</li>
-                  <li>Testing p2p distributed systems</li>
-                </ul>
                 <h6>PoA Tendermint - (Partially) Synchronous BFT Consensus:</h6>
-                <ul>
-                  <li>Partial Synchrony</li>
-                  <li>PoS In Practice</li>
-                  <li>Economic design and analysis with cadCAD</li>
-                  <li>PBFT</li>
-                  <li>HotStuff / LibraBFT</li>
-                  <li>BLS Signatures</li>
-                </ul>
-                <h6>"State of the art" (understand, don't implement):</h6>
-                <ul>
-                  <li>Erasure Codes</li>
-                  <li>Verifiable Random Functions</li>
-                  <li>Requirements for a good sharding scheme</li>
-                  <li>Cosmos Network (IBC)</li>
-                  <li>Polkadot</li>
-                  <li>Ethereum 2.0</li>
-                  <li>Harmony One</li>
-                  <li>NEAR Protocol</li>
-                  <li>Solana</li>
-                </ul>
               </div>
             </div>
           </div>
