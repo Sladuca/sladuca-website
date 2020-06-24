@@ -41,9 +41,7 @@ export default function LearningLayerOne() {
                 The simplest way for me to prioritize actually building layer one technology, is to be direct about it. However, I can't just jump straight into 
                 implementing something crazy like a sharded delegated-proof-of-stake chain using verifiable delay functions and expect to accomplish anything. At the same 
                 time, I don't want to waste my time re-learning how the internet works. To keep that balance while maintaining directness towards building layer one tech, 
-                I'm segmenting the learning process into sub-goals, each to implement very barebones versions of progressively more sophistocated distributed consensus protocols. 
-                They're ordered in such a way that each uses progressively more sophistocated primitives and concepts. In no way am I intending them to be secure, production-worthy,
-                or even testnet-worthy. In real life, I'd be just one member of a team filled with people who are smarter than I am.
+                I'm segmenting the learning process into sub-goals, each to implement / understand important primitives that go into layer one protocols.
               </p>
               <div className="py-8">
                 <h6>Raft - Non-Byzantine Distributed Consensus:</h6>
